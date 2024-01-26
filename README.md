@@ -11,7 +11,7 @@ This is a Moving Average expert advisor for trading on the MetaTrader platform. 
 
   ## How to Add the Expert Advisor:
   
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/F0gQ.gif>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/F0gQ.gif">
 
 ## 🚀 Usage
 
