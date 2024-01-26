@@ -3,8 +3,8 @@
 //|                                           Copyright 2024, Clarionxk |
 //|                                      https://www.Avalanche-tech.com    |
 //+------------------------------------------------------------------+
-#property copyright   "2022, Clarionxk"
-#property link        "https://www.clarionxk.com"
+#property copyright   "2024, Clarionxk"
+#property link        "https://www.Avalanche-tech.com"
 #property description "Advanced Moving Average expert advisor"
 
 #define MAGICMA  20220126
