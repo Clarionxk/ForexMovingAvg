@@ -9,6 +9,10 @@ This is a Moving Average expert advisor for trading on the MetaTrader platform. 
 - Implements risk management by optimizing the lot size.
 - Supports the use of a trailing stop for profit protection.
 
+  ## How to Add the Expert Advisor:
+  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+
 ## 🚀 Usage
 
 1. Download the `Clarionxk Moving Average.mq4` file from this repository.
