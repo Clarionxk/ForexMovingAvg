@@ -9,9 +9,10 @@ This is a Moving Average expert advisor for trading on the MetaTrader platform. 
 - Implements risk management by optimizing the lot size.
 - Supports the use of a trailing stop for profit protection.
 
-  ## How to Add the Expert Advisor:
+## How to Add the Expert Advisor:
   
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/F0gQ.gif">
+![Coding](https://www.ea-coder.com/wp-content/uploads/2018/06/mt4-running-four-expert-advisors-on-multiple-charts.gif)
+
 
 ## 🚀 Usage
 
